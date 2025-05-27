@@ -14,7 +14,13 @@ const ProjectCard = ({ project, index }) => {
         <p className='text-sm text-white/30'>
             {project.description}
         </p>
-        <Button>Visit Site</Button>
+        <a className='w-full'
+        href={project.link}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <Button className='md:px-48 px-28 flex justify-center mx-auto md:mx-0 md:justify-start'>Visit Site</Button>
+      </a>
       </div>
 
       {/* Project Image */}

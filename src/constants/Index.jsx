@@ -20,29 +20,31 @@ export const menuItems = [
 ];
 
 export const projects = [
-    {
-        id: 1,
-        title: "Responsive Portfolio Website",
-        Image: projectImage,
-        description: 
-            "A sleek and a fully responsive portfolio website to showcase skills, projects and experience. Bulit with HTML, CSS, and Javascript with modern design practices"
-    }, 
-    {
-        id: 2,
-        title: "E-Commerce Platform",
-        Image: projectImage2,
-        description: 
-            "An e-commerce platform with features like: Product listing, Cart functionality and User authentication. Developed using React, Node.js, Express and MongoDB."
-    },
-    {
-        id: 3,
-        title: "Dashboard Design",
-        Image: projectImage1,
-        description: 
-            "A highly customizable and interactive admin dashboard built with Tailwind css, React, and Chart.js to visualize complex data effectively"
-    },
+  {
+    id: 1,
+    title: "Responsive Portfolio Website",
+    Image: projectImage,
+    description: 
+      "A sleek and a fully responsive portfolio website to showcase skills, projects and experience...",
+    link: "https://portfolio-k-rouge.vercel.app/"
+  },
+  {
+    id: 2,
+    title: "E-Commerce Platform",
+    Image: projectImage2,
+    description: 
+      "An e-commerce platform with features like: Product listing, Cart functionality...",
+    link: "https://ecommerce-platform.vercel.app"
+  },
+  {
+    id: 3,
+    title: "Dashboard Design",
+    Image: projectImage1,
+    description: 
+      "A highly customizable and interactive admin dashboard built with Tailwind CSS...",
+    link: "https://admin-dashboard.vercel.app"
+  },
 ];
-
 export const services = [
     {
         title: "Web Development",

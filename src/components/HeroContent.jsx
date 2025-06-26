@@ -10,8 +10,7 @@ const HeroContent = ({ variants }) => {
       </p>
       <h2 className='mt-4 font-serif text-3xl font-bold tracking-wide text-white/80 md:text-4xl lg:mt-8 lg:text-5xl'>Fullstack Developer</h2>
       <p className='text-white/40 mt-4 md:text-lg'>
-        To be a fullsatck Developer is a very amazing,To be a fullsatck Developer is a very amazing 
-        To be a fullsatck Developer is a very amazing ,To be a fullsatck Developer is a very amazing  
+        Being a full-stack developer is truly rewarding. It offers the opportunity to work across both frontend and backend, bringing ideas to life from start to finish and solving real-world problems through technology.
       </p>
       <div className='flex items-center gap-2 mt-5'>
         <Button>Hire Me</Button>

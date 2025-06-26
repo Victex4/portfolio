@@ -1,6 +1,8 @@
-import projectImage1 from "../assets/dashboard1.jpg"
+import projectImage1 from "../assets/invoice.png"
+import projectImage4 from "../assets/arch.png"
 import projectImage from "../assets/dash.png"
 import projectImage2 from "../assets/ecommerce.jpg"
+import projectImage3 from "../assets/heartmite.png"
 import { BiCodeAlt } from "react-icons/bi";
 import { BiMobileAlt } from "react-icons/bi";
 import { BiPalette } from "react-icons/bi";
@@ -38,11 +40,27 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Dashboard Design",
+    title: "E-Invoice",
     Image: projectImage1,
     description: 
-      "A highly customizable and interactive admin dashboard built with Tailwind CSS...",
-    link: "https://admin-dashboard.vercel.app"
+      "A Sass for recording sales and generating of receipts both in pdf format and image",
+    link: "https://invoice-application-three.vercel.app"
+  },
+  {
+    id: 4,
+    title: "Heart Felt",
+    Image: projectImage3,
+    description: 
+      "A full stack web appllication for customization and distribution of cards to loved ones",
+    link: "https://new-heartfelt.vercel.app"
+  },
+  {
+    id: 5,
+    title: "Homyz",
+    Image: projectImage4,
+    description: 
+      "A landing page for a real estate website",
+    link: "https://real-estate-ebon-omega.vercel.app"
   },
 ];
 export const services = [

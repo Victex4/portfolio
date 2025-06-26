@@ -79,9 +79,7 @@ const About = () => {
               Hi, I'm <span className='text-blue-500'>Enochusi Victory</span>
             </h1>
             <p className='text-sm mt-3 text-white/60 md:text-base'>
-              A very active fullstack, ive done alot of work using React, Nodejs, MongoDb etc 
-              A very active fullstack, ive done alot of work using React, Nodejs, MongoDb etc 
-              A very active fullstack, ive done alot of work using React, Nodejs, MongoDb etc 
+              I'm a highly active and experienced full-stack developer with a strong track record of building robust applications using technologies like React, Node.js, and MongoDB. I've successfully worked on multiple projects across both frontend and backend, consistently delivering high-quality results.
             </p>
           </div>
           <div className='mt-5'>

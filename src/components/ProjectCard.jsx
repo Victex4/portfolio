@@ -19,7 +19,7 @@ const ProjectCard = ({ project, index }) => {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <Button className='md:px-48 px-28 flex justify-center mx-auto md:mx-0 md:justify-start'>Visit Site</Button>
+        <Button className='md:px-48 px-20 flex justify-center mx-auto md:mx-0 md:justify-start'>Visit Site</Button>
       </a>
       </div>
 
